@@ -1,0 +1,27 @@
+{
+  "name": "vue-google-places-autocomplete",
+  "version": "0.0.0",
+  "description": "Directive to autocomplete addresses with google place API",
+  "author": "Sergio Marin <higher.vnf@gmail.com>",
+  "homepage": "https://github.com/highercomve/google-places-autocomplete",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highercomve/google-places-autocomplete.git"
+  },
+  "bugs": {
+    "url": "https://github.com/highercomve/google-places-autocomplete/issues"
+  },
+  "scripts": {},
+  "dependencies": {
+    "google-maps-api-loader": "^1.1.1"
+  }
+}
